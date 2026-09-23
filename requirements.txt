@@ -1,0 +1,3 @@
+# IT Support Ticket System - Sprint 1
+# No third-party dependencies required.
+# All modules used (sqlite3, datetime, getpass) are part of the Python standard library.
